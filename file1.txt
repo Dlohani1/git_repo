@@ -2,4 +2,6 @@ This is file1
 
 Some new changes added
 
-Some modified code added
+
+Some updated2 code added
+
